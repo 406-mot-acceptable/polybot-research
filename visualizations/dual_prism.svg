@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550" style="background:#0d0d0d;font-family:JetBrains Mono,monospace">
+
+<!-- Title -->
+<text x="450" y="30" text-anchor="middle" fill="#e8e4dc" font-size="16" font-weight="bold">THE DUAL PRISM — Human-AI Signal Processing</text>
+
+<!-- White light beam (reality) entering from left -->
+<line x1="20" y1="275" x2="160" y2="275" stroke="#e8e4dc" stroke-width="4" opacity="0.9"/>
+<text x="90" y="260" text-anchor="middle" fill="#e8e4dc" font-size="9">MARKET REALITY</text>
+<text x="90" y="295" text-anchor="middle" fill="#6b6b6b" font-size="7">(white light — all signals mixed)</text>
+
+<!-- PRISM 1: System (AI decomposition) -->
+<polygon points="170,200 240,350 100,350" fill="none" stroke="#a78bfa" stroke-width="2"/>
+<text x="170" y="310" text-anchor="middle" fill="#a78bfa" font-size="10" font-weight="bold">PRISM 1</text>
+<text x="170" y="325" text-anchor="middle" fill="#a78bfa" font-size="8">SYSTEM</text>
+<text x="170" y="340" text-anchor="middle" fill="#6b6b6b" font-size="7">decompose</text>
+
+<!-- Spectrum rays coming out of prism 1 (fanning out) -->
+<!-- Each ray is a different signal type with its own color -->
+<line x1="240" y1="275" x2="355" y2="111" stroke="#22d3ee" stroke-width="1.5" opacity="0.6"/>
+<text x="360" y="114" fill="#22d3ee" font-size="7">Tier S/A</text>
+<line x1="240" y1="275" x2="398" y2="152" stroke="#fb923c" stroke-width="1.5" opacity="0.6"/>
+<text x="403" y="155" fill="#fb923c" font-size="7">Tier BF/AF (fades)</text>
+<line x1="240" y1="275" x2="428" y2="207" stroke="#f87171" stroke-width="1.5" opacity="0.6"/>
+<text x="433" y="210" fill="#f87171" font-size="7">Tier F (anti-signal)</text>
+<line x1="240" y1="275" x2="440" y2="261" stroke="#a78bfa" stroke-width="1.5" opacity="0.6"/>
+<text x="445" y="264" fill="#a78bfa" font-size="7">JSE signals</text>
+<line x1="240" y1="275" x2="436" y2="317" stroke="#60a5fa" stroke-width="1.5" opacity="0.6"/>
+<text x="441" y="320" fill="#60a5fa" font-size="7">US signals</text>
+<line x1="240" y1="275" x2="417" y2="369" stroke="#4ade80" stroke-width="1.5" opacity="0.6"/>
+<text x="422" y="372" fill="#4ade80" font-size="7">Crypto structural</text>
+<line x1="240" y1="275" x2="384" y2="414" stroke="#fbbf24" stroke-width="1.5" opacity="0.6"/>
+<text x="389" y="417" fill="#fbbf24" font-size="7">Chain patterns</text>
+<line x1="240" y1="275" x2="346" y2="445" stroke="#d946ef" stroke-width="1.5" opacity="0.6"/>
+<text x="351" y="448" fill="#d946ef" font-size="7">Time-of-day</text>
+
+<!-- SPECTRUM ZONE label -->
+<text x="450" y="80" text-anchor="middle" fill="#6b6b6b" font-size="10" font-style="italic">S P E C T R U M</text>
+<text x="450" y="95" text-anchor="middle" fill="#333" font-size="7">(each band analyzable independently)</text>
+
+<!-- Vertical dashed line — the gap between AI and Human -->
+<line x1="450" y1="50" x2="450" y2="500" stroke="#333" stroke-width="1" stroke-dasharray="4,8"/>
+<text x="450" y="510" text-anchor="middle" fill="#333" font-size="7">← AI DOMAIN | HUMAN DOMAIN →</text>
+<line x1="355" y1="111" x2="660" y2="275" stroke="#22d3ee" stroke-width="1.5" opacity="0.4"/>
+<line x1="398" y1="152" x2="660" y2="275" stroke="#fb923c" stroke-width="1.5" opacity="0.4"/>
+<line x1="428" y1="207" x2="660" y2="275" stroke="#f87171" stroke-width="1.5" opacity="0.4"/>
+<line x1="440" y1="261" x2="660" y2="275" stroke="#a78bfa" stroke-width="1.5" opacity="0.4"/>
+<line x1="436" y1="317" x2="660" y2="275" stroke="#60a5fa" stroke-width="1.5" opacity="0.4"/>
+<line x1="417" y1="369" x2="660" y2="275" stroke="#4ade80" stroke-width="1.5" opacity="0.4"/>
+<line x1="384" y1="414" x2="660" y2="275" stroke="#fbbf24" stroke-width="1.5" opacity="0.4"/>
+<line x1="346" y1="445" x2="660" y2="275" stroke="#d946ef" stroke-width="1.5" opacity="0.4"/>
+
+<!-- PRISM 2: Human (recomposition) -->
+<polygon points="730,200 660,350 800,350" fill="none" stroke="#4ade80" stroke-width="2"/>
+<text x="730" y="310" text-anchor="middle" fill="#4ade80" font-size="10" font-weight="bold">PRISM 2</text>
+<text x="730" y="325" text-anchor="middle" fill="#4ade80" font-size="8">HUMAN</text>
+<text x="730" y="340" text-anchor="middle" fill="#6b6b6b" font-size="7">recompose</text>
+
+<!-- Additional context rays entering prism 2 from above/below (human knowledge) -->
+<line x1="650" y1="100" x2="700" y2="220" stroke="#e8e4dc" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+<text x="630" y="95" text-anchor="middle" fill="#e8e4dc" font-size="7">world events</text>
+
+<line x1="720" y1="90" x2="720" y2="200" stroke="#e8e4dc" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+<text x="720" y="82" text-anchor="middle" fill="#e8e4dc" font-size="7">social feeds</text>
+
+<line x1="790" y1="110" x2="750" y2="215" stroke="#e8e4dc" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+<text x="810" y="105" text-anchor="middle" fill="#e8e4dc" font-size="7">people simulation</text>
+
+<line x1="650" y1="430" x2="695" y2="345" stroke="#e8e4dc" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+<text x="635" y="440" text-anchor="middle" fill="#e8e4dc" font-size="7">domain expertise</text>
+
+<line x1="730" y1="450" x2="725" y2="355" stroke="#e8e4dc" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+<text x="730" y="462" text-anchor="middle" fill="#e8e4dc" font-size="7">narrative construction</text>
+
+<line x1="810" y1="425" x2="755" y2="340" stroke="#e8e4dc" stroke-width="1" opacity="0.3" stroke-dasharray="3,3"/>
+<text x="825" y="435" text-anchor="middle" fill="#e8e4dc" font-size="7">empathy / intuition</text>
+
+<!-- Focused beam coming out of prism 2 -->
+<line x1="740" y1="275" x2="880" y2="275" stroke="#e8e4dc" stroke-width="5" opacity="0.95"/>
+<!-- Glow effect -->
+<line x1="740" y1="275" x2="880" y2="275" stroke="#4ade80" stroke-width="8" opacity="0.15"/>
+<text x="870" y="260" text-anchor="end" fill="#e8e4dc" font-size="10" font-weight="bold">DECISION</text>
+<text x="870" y="292" text-anchor="end" fill="#6b6b6b" font-size="7">(focused beam)</text>
+
+<!-- Telegram feedback loop arrow (bottom) -->
+<path d="M 860,310 C 860,420 450,460 170,420 C 80,410 40,350 40,275" fill="none" stroke="#fbbf24" stroke-width="1" stroke-dasharray="4,4" opacity="0.4" marker-end="url(#arr2)"/>
+<text x="450" y="455" text-anchor="middle" fill="#fbbf24" font-size="7" opacity="0.6">feedback loop (Telegram insights → system adjustments → new spectrum)</text>
+
+<!-- Arrow markers -->
+<defs>
+<marker id="arr2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#fbbf24" opacity="0.4"/></marker>
+</defs>
+
+<!-- Footer quote -->
+<text x="{w//2}" y="{h-15}" text-anchor="middle" fill="#333" font-size="8" font-style="italic">"Its like a spectrum of light re-entering a prism" — Jaco Boltman, 2026</text>
+
+</svg>
