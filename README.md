@@ -58,7 +58,7 @@ See `system/opus_orchestrator.md` for the full agent architecture (335 lines).
 
 ## Author
 
-**Jaco Boltman** — Wireless network engineer, Pretoria, South Africa. Self-taught. 38 Obsidian-based production systems built through human-AI collaboration. Former competitive Rocket League player ([RLCS Sub-Saharan Africa](https://liquipedia.net/rocketleague/Motty)).
+**Jaco Boltman** — Pretoria, South Africa.
 
 ## License
 
